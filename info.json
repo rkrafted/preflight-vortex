@@ -1,0 +1,6 @@
+{
+  "name": "Preflight for Cyberpunk 2077",
+  "author": "Preflight",
+  "version": "0.1.0",
+  "description": "Patch readiness, dependency and crash checks for Cyberpunk 2077 loadouts."
+}

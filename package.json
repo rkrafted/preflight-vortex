@@ -1,0 +1,11 @@
+{
+  "name": "preflight-vortex",
+  "version": "0.1.0",
+  "description": "Preflight for Cyberpunk 2077: patch readiness, dependency and crash checks inside Vortex",
+  "main": "src/index.js",
+  "license": "GPL-3.0-only",
+  "private": true,
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  }
+}
